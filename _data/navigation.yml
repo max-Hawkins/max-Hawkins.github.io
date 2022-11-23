@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "CV"
+    url: /assets/max_hawkins_cv.pdf
+  - title: "Tech"
+    url: /tech/
+  - title: "DIY"
+    url: /diy/
+  - title: "Travel"
+    url: /travel/
