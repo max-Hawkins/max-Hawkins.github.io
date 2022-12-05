@@ -62,39 +62,39 @@ However, sometimes the open and lawless circumstances led to undesirable outcome
 ## Activities
 
 Contrary to popular stereotypes, the days were filled with high energy activity. Campers constantly announced new workshops. Calligraphy, tea making, fire dancing, deep tissue massage, tarot card reading, and swing dancing are just a few examples. We also sang and danced before every meal. After the food was prepared, we linked hands, formed a circle, and danced and sang together for half an hour. The songs often tied nature and humans together. Here are two simple songs:
-<blockquote>I love my Family, I love my Life
+<blockquote>I love my Family, I love my Life <br>
 
-And now I live in a coconut tree
+And now I live in a coconut tree<br>
 
-It’s good. It’s good.
+It’s good. It’s good.<br>
 
-It’s good to be me.
+It’s good to be me.<br>
 
-Swinging in the trees,
+Swinging in the trees,<br>
 
-And swimming in the sea
+And swimming in the sea<br>
 
 <hr />
 
-Put your roots down
+Put your roots down<br>
 
-Put your feet on the ground
+Put your feet on the ground<br>
 
-You can hear the earth move
+You can hear the earth move<br>
 
-If you’re listening
+If you’re listening<br>
 
-Are you listening
+Are you listening<br>
 
-It’s the sound of the river
+It’s the sound of the river<br>
 
-As it moves across the stones
+As it moves across the stones<br>
 
-It’s the same sound as the blood in your body
+It’s the same sound as the blood in your body<br>
 
-As it moves across your bones
+As it moves across your bones<br>
 
-If you’re listening
+If you’re listening<br>
 
 Are you listening?</blockquote>
 
