@@ -1,9 +1,11 @@
 main:
-  - title: "CV"
-    url: /assets/max_hawkins_cv.pdf
+  - title: "About"
+    url: /
   - title: "Tech"
     url: /tech/
   - title: "DIY"
     url: /diy/
   - title: "Travel"
     url: /travel/
+  - title: "CV"
+    url: /assets/max_hawkins_cv.pdf

@@ -1,9 +1,8 @@
 ---
-title: "Tech"
+title: Tech
+layout: tag
 permalink: /tech/
-author_profile: true
+taxonomy: tech
 ---
 
 A smattering of tech-themed posts.
-
-Coming soon...
