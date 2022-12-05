@@ -1,9 +1,8 @@
 ---
-title: "Do-It-Yourself"
+title: DIY
+layout: tag
 permalink: /diy/
-author_profile: true
+taxonomy: diy
 ---
 
 A collection of some of my DIY projects - woodworking, metalworking, and electronics.
-
-Coming Soon...
