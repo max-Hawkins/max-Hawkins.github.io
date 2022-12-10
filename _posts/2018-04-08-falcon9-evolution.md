@@ -2,6 +2,8 @@
 title: "Falcon 9's History Explained - SpaceX's Upgrades that Led to Block 5"
 excerpt_separator: "<!--more-->"
 excerpt: "A clear explanation of Falcon 9 history. How SpaceX's Falcon 9 rocket came to be the behemoth it is today - from v1.0 to Block 5."
+header:
+  teaser: /assets/images/posts/falcon9-history/falcon9-boosters.jpeg
 categories:
   - Travel
 tags:

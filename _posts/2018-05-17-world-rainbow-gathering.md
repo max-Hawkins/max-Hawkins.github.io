@@ -4,6 +4,8 @@ excerpt_separator: "<!--more-->"
 excerpt: "My experience at the 2018 World Rainbow Gathering in Hualien, Taiwan: rain, sharing, nature, snake bites, and a cacao ceremony."
 categories:
   - Travel
+header:
+  teaser: /assets/images/posts/world-rainbow-gathering/gathering-hammock.jpeg
 tags:
   - world-rainbow-gathering
   - taiwan

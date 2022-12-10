@@ -2,6 +2,8 @@
 title: "Making an Electric Longboard - Raw 18650 batteries and wood to road rash"
 excerpt_separator: "<!--more-->"
 excerpt: "A summary document detailing how I made my electric longboard to get experience with batteries and electronics"
+header:
+  teaser: /assets/images/posts/electric-longboard/longboard-batterypack.jpg
 categories:
   - Tech
 tags:
@@ -9,10 +11,7 @@ tags:
   - diy
   - electric-longboard
   - lithium-battery
-header:
-  teaser: "/assets/images/posts/electric-longboard/longboard-knee.jpg"
-  header: "/assets/images/posts/electric-longboard/longboard-knee.jpg"
-  og_image: "/assets/images/posts/electric-longboard/longboard-knee.jpg"
+
 ---
 
 *Still working to edit this post...*

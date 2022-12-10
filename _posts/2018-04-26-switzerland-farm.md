@@ -2,6 +2,8 @@
 title: "Switzerland - Farmwork, Mountains, and Science"
 excerpt_separator: "<!--more-->"
 excerpt: "My two week stay near Bern helping on a hobby farm - beautiful scenery, farmwork, and CERN amazingness."
+header:
+  teaser: /assets/images/posts/switzerland-farm/swiss-view.jpeg
 categories:
   - Travel
 tags:
