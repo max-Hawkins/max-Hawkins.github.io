@@ -11,9 +11,6 @@ tags:
   - hualien-taiwan
 ---
 
-*Note: This story was originally posted on my old blog (theclimategap.com) but was edited slightly and moved here in 2022.*
-
-
 ## A Hip and Happenin' Dinner with Hippies
 
 Most of our time on this Earth is forgotten seconds after it passes. You don’t remember the feeling of the air five breaths ago, and you won’t remember this website’s layout after you close the browser. But, sometimes you find yourself in circumstances that you know will be remembered for a long time.
@@ -151,3 +148,4 @@ It stopped raining as I was walking back to town, so I couldn't help but smile.
 
 My few days at the International Rainbow Gathering clearly weren’t normal, but that’s why I loved it. Everyone was nice, the surroundings were beautiful, sanitary conditions made life interesting, and the food was delicious. If these stories seemed odd, that’s because they were. But if given the chance, I would’ve stayed for even longer.
 
+*Note: This story was originally posted on my old blog (theclimategap.com) but was edited slightly and moved here in 2022.*

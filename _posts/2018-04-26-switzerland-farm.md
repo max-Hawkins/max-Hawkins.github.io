@@ -11,8 +11,6 @@ tags:
   - workaway
 ---
 
-*Note: This story was originally posted on my old blog (theclimategap.com) but was edited slightly and moved here in 2022.*
-
 Imagine a stereotypical Swiss chalet. A quaint cottage plopped on the side of a forested hill. With views of the mountains, the inhabitants are treated to the sight of undisturbed nature. Every morning the sleepy surroundings are woken by a rooster’s crow, and every evening the hearth quietly crackles into the night. During the day, animals of all kinds enjoy their fenced, natural playground. Deer prance about on the hillside, sheep stare blankly at the grass, and shaggy humans worry themselves with a fence. This all taking place amidst clanking cowbells and occasional yodeling - background music even the edgiest of SoundCloud playlists can’t provide. Luckily, you don't have to imagine this wonderful place. It actually exists outside a small village near Bern, Switzerland.
 
 A week after creating my Workaway account, I was contacted by an elderly Swiss lady asking if I wanted to help at her house. Doesn't it happen regularly? Since I had no other plans at the time, I decided to accept her offer. After leaving Bruno and Ursula in France, I made my way to Switzerland. On the way, however, I'd stop off in Lyon to visit some historical sites.
@@ -246,3 +244,5 @@ It’s impossible to go down into the actual LHC chamber (radiation and cryogeni
 Fun Fact: The inventor of the first circular particle accelerator, Ernest Lawrence, was born in Canton, South Dakota - just a ten-minute drive from where I'm from.
 
 In short, CERN and Switzerland are both amazing.
+
+*Note: This story was originally posted on my old blog (theclimategap.com) but was edited slightly and moved here in 2022.*
