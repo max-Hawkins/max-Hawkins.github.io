@@ -73,7 +73,7 @@ author:
     #   url: "https://"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:max.hawkins65@gmail.com"
+      url: "mailto:mhawkins60@gatech.edu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/max-Hawkins"
@@ -88,7 +88,7 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:max.hawkins65@gmail.com"
+      url: "mailto:mhawkins60@gatech.edu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/max-Hawkins"
