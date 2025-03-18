@@ -4,7 +4,10 @@ title: "About Me"
 layout: single
 ---
 
-I'm a Computational Science and Engineering PhD student at Georgia Tech advised by Richard Vuduc and Spencer Bryngelson. My high-level research interest is to enable performant and efficient scientific computing at scale while minimizing the adverse impacts this has on the world (primarily energy and water consumption).
+I'm a Computational Science and Engineering PhD student at Georgia Tech advised by Richard Vuduc and Spencer Bryngelson.
+
+My high-level research interest is to enable performant and efficient scientific computing at scale while minimizing the adverse impacts this has on the world (primarily energy and water consumption).
+
 Current research projects include:
 <ul>
   <li>In-line lossy compression to minimize communication volumes in scientific HPC applications</li>
