@@ -26,15 +26,6 @@ Computation isn't some ethereal process. It's a real, physical process that requ
 - More to be added...
 
 
-<!-- Current research projects include:
-<ul>
-  <li>Using information theory to more accurately and generally evaluate computing performance</li>
-  <!-- <li>Runtime and energy impacts of dense hardware accelerators for potentially sparse data</li> -->
-  <!-- <li>Opportunities and challenges of integrating datacenters into our societal fabric</li>
-  <li>Accurately quantifying and conveying a user's HPC energy/water/carbon footprint</li>
-  <li>In-line lossy compression to minimize communication volumes in scientific HPC applications</li>
-</ul> -->
-
 I'm advised by Richard Vuduc and Spencer Bryngelson.
 
 If you have a comment, question, or otherwise want to contact me, please email mhawkins60@gatech.edu.
