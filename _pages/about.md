@@ -20,6 +20,7 @@ Computation isn't some ethereal process. It's a real, physical process that requ
 
 <!-- ModSim 2025 - "AI Datacenter Power Curtailment - Potential, Challenges, and Implementation -->
 
+- Conference for Next-Generation Arithmetic '25, "Bits on Bits: Showcasing Next-Gen Arithmetic through Information Theory", Max Hawkins and Rich Vuduc, [Talk Slides](../assets/presentations/2025_conga/2025_conga_bits_on_bits_presentation.pdf)
 
 - ModSim '25, "AI Datacenter Power Curtailment - Potential, Challenges, and Implementation", Max Hawkins and Richard Rex, [Poster](../assets/presentations/modsim_2025/modsim_2025_poster.pdf), [Slides](../assets/presentations/modsim_2025/modsim_2025_slides.pdf)
 
