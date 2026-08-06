@@ -13,9 +13,9 @@ Rich Vuduc - richie@cc.gatech.edu
 
 Links:\
 [Back to Bits paper](https://arxiv.org/pdf/2508.05621) (the preprint this poster is based off of)\
-[Farewell to the Flop - A Post-Dennard Poem](https://maxhawkins.info/assets/A_Post_Dennard_Poem.pdf) (a condensed and hopefully fun version of my PhD thesis) \
+[Farewell to the Flop - A Post-Dennard Poem](https://maxhawkins.info/assets/A_Post_Dennard_Poem.pdf) (a condensed and hopefully fun version of my PhD thesis)
 
 Follow-on work: \
 [Information Roofline extended abstract](https://maxhawkins.info/assets/presentations/modsim_2026/Information_Roofline_Abstract_ModSim_2026.pdf)\
-[Information Roofline poster PDF](https://maxhawkins.info/assets/presentations/modsim_2026/ModSim2026_poster_hawkins_info_roofline.pdf)\
+[Information Roofline poster PDF](https://maxhawkins.info/assets/presentations/modsim_2026/ModSim2026_poster_hawkins_info_roofline.pdf)
 
